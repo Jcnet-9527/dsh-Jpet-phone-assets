@@ -28,6 +28,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "哼，不给本鱼买薯片，不让你碰我！",
       "category": "点击回应",
       "bundled": true,
       "bytes": 3377746
@@ -48,6 +49,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "本鱼在这里！主人有给本鱼带薯片吗？",
       "category": "点击回应",
       "bundled": true,
       "bytes": 3999594
@@ -68,6 +70,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "你这样一直盯着本鱼看，本鱼会害羞的！",
       "category": "点击回应",
       "bundled": false,
       "bytes": 3986640
@@ -88,6 +91,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "主人最好啦！本鱼最喜欢和主人在一起！",
       "category": "点击回应",
       "bundled": false,
       "bytes": 4350914
@@ -108,6 +112,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "哦？咯咯咯咯，不要挠了，本鱼认输啦！",
       "category": "点击回应",
       "bundled": false,
       "bytes": 3877440
@@ -128,6 +133,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "拖拽",
       "bundled": true,
       "bytes": 4219748
@@ -148,6 +154,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "余额",
       "bundled": true,
       "bytes": 4203628
@@ -168,6 +175,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "余额",
       "bundled": false,
       "bytes": 3878226
@@ -188,6 +196,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "余额",
       "bundled": false,
       "bytes": 4118822
@@ -208,6 +217,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "余额",
       "bundled": false,
       "bytes": 4222706
@@ -228,6 +238,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "余额",
       "bundled": false,
       "bytes": 4214814
@@ -248,6 +259,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "余额",
       "bundled": false,
       "bytes": 4554170
@@ -268,6 +280,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "待机",
       "bundled": true,
       "bytes": 3908736
@@ -530,6 +543,7 @@
         1.0,
         1.0
       ],
+      "line": "",
       "category": "移动",
       "bundled": true,
       "bytes": 3661152
@@ -792,6 +806,7 @@
         1.0,
         1.0
       ],
+      "line": "",
       "category": "移动",
       "bundled": false,
       "bytes": 3951056
@@ -1054,6 +1069,7 @@
         1.0,
         1.0
       ],
+      "line": "",
       "category": "移动",
       "bundled": false,
       "bytes": 3846044
@@ -1074,6 +1090,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4006720
@@ -1094,6 +1111,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3974166
@@ -1114,6 +1132,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4460802
@@ -1134,6 +1153,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3860108
@@ -1154,6 +1174,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4100282
@@ -1174,6 +1195,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3835500
@@ -1194,6 +1216,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3882856
@@ -1214,6 +1237,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4538534
@@ -1234,6 +1258,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 6432080
@@ -1254,6 +1279,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4064782
@@ -1274,6 +1300,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4150162
@@ -1294,6 +1321,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3728000
@@ -1314,6 +1342,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4758514
@@ -1334,6 +1363,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3885700
@@ -1354,6 +1384,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3288884
@@ -1374,6 +1405,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3941690
@@ -1394,6 +1426,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3983820
@@ -1414,6 +1447,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4512954
@@ -1434,6 +1468,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3985980
@@ -1454,6 +1489,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3962046
@@ -1474,6 +1510,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4145898
@@ -1494,6 +1531,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3841474
@@ -1514,6 +1552,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3863422
@@ -1534,6 +1573,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 6262476
@@ -1554,6 +1594,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3920306
@@ -1574,6 +1615,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3954958
@@ -1594,6 +1636,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4006488
@@ -1614,6 +1657,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4024464
@@ -1634,6 +1678,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3839512
@@ -1654,6 +1699,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4035776
@@ -1674,6 +1720,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3906768
@@ -1694,6 +1741,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4058500
@@ -1714,6 +1762,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3861152
@@ -1734,6 +1783,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4279396
@@ -1754,6 +1804,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 5160718
@@ -1774,6 +1825,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 5245500
@@ -1794,6 +1846,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4039028
@@ -1814,6 +1867,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3786338
@@ -1834,6 +1888,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 5399488
@@ -1854,6 +1909,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3823412
@@ -1874,6 +1930,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3747000
@@ -1894,6 +1951,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4118356
@@ -1914,6 +1972,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4238546
@@ -1934,6 +1993,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 2124608
@@ -1954,6 +2014,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4478036
@@ -1974,6 +2035,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4458350
@@ -1994,6 +2056,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3895758
@@ -2014,6 +2077,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4363162
@@ -2034,6 +2098,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4417204
@@ -2054,6 +2119,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4024318
@@ -2074,6 +2140,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3894538
@@ -2094,6 +2161,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4046618
@@ -2114,6 +2182,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3949544
@@ -2134,6 +2203,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4001006
@@ -2154,6 +2224,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4121410
@@ -2174,6 +2245,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4012084
@@ -2194,6 +2266,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3865596
@@ -2214,6 +2287,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 5189754
@@ -2234,6 +2308,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3802040
@@ -2254,6 +2329,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 8913578
@@ -2274,6 +2350,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 5096044
@@ -2294,6 +2371,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3414508
@@ -2314,6 +2392,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "吃什么？是啊吃什么，吃什么吃什么！",
       "category": "小动作",
       "bundled": false,
       "bytes": 5558166
@@ -2334,6 +2413,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4092158
@@ -2354,6 +2434,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4069728
@@ -2374,6 +2455,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "中午吃啥？好困啊，本鱼不想动了。",
       "category": "小动作",
       "bundled": false,
       "bytes": 4955630
@@ -2394,6 +2476,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4001490
@@ -2414,6 +2497,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4265054
@@ -2434,6 +2518,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4355256
@@ -2454,6 +2539,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4117650
@@ -2474,6 +2560,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "主人好久没有理我了，是嫌弃本鱼太能吃了吗？",
       "category": "小动作",
       "bundled": false,
       "bytes": 3884292
@@ -2494,6 +2581,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "主人要记得给本鱼带薯片吃哦，嗯…就带个十包吧！",
       "category": "小动作",
       "bundled": false,
       "bytes": 3958774
@@ -2514,6 +2602,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "好累啊，本鱼干活，主人会给薯片给我吃吗？",
       "category": "小动作",
       "bundled": false,
       "bytes": 3924912
@@ -2534,6 +2623,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4424162
@@ -2554,6 +2644,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4101604
@@ -2574,6 +2665,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4318872
@@ -2594,6 +2686,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3901210
@@ -2614,6 +2707,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4229006
@@ -2634,6 +2728,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 5927874
@@ -2654,6 +2749,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4035874
@@ -2674,6 +2770,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 5306810
@@ -2694,6 +2791,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 6653584
@@ -2714,6 +2812,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3892614
@@ -2734,6 +2833,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3940034
@@ -2754,6 +2854,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3985900
@@ -2774,6 +2875,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3878706
@@ -2794,6 +2896,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 3921732
@@ -2814,6 +2917,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4797796
@@ -2834,6 +2938,7 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "小动作",
       "bundled": false,
       "bytes": 4563174
@@ -2854,18 +2959,13 @@
       ],
       "stride": 180.0,
       "curve": [],
+      "line": "",
       "category": "转向",
       "bundled": true,
       "bytes": 3880198
     }
   ],
-  "phrases": [
-    "好女孩……",
-    "好模型……",
-    "欧鲸鲸……",
-    "今天也要认真工作呀。",
-    "再陪你一会儿。"
-  ],
+  "phrases": [],
   "packs": {
     "schema_version": 1,
     "character_id": "shenshen",
